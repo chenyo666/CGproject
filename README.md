@@ -1,1 +1,1 @@
-# CGproject
+# CGproject Convex hull in 3D 
